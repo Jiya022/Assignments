@@ -1,0 +1,45 @@
+.bg-gray{
+    background:gray;
+}
+.white{
+    color:white;
+}
+.shadow{
+  box-shadow: 2px 2px 5px 2px gray;
+}
+
+
+.img-size{
+    height: 150px;
+}
+.width{
+    width:230px;
+}
+.height{
+    height:420px;
+}
+
+.padding-10-20{
+    padding:10px 20px;
+}
+.padding-6{
+    padding:6px;
+}
+.padding-10{
+  padding:10px;
+}
+
+.d-flex{
+    display:flex;
+}
+.flex-column{
+    flex-direction:column;
+}
+.wrap{
+    flex-wrap:wrap;
+}
+.gap-20{
+    gap:20px;
+}
+
+
