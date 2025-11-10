@@ -1,0 +1,54 @@
+.purple{
+    color:rgb(99, 74, 190);
+}
+.gray{
+    color:gray;
+}
+.white{
+    color:white;
+}
+.bg-purple{
+    background: rgb(99, 74, 190);
+}
+.bg-white{
+    background: white;
+}
+.bg-off-white{
+    background: rgb(246, 244, 244);
+}
+.padding-20-30{
+    padding: 20px 30px;
+}
+.button-round{
+    border-radius: 10px;
+}
+.main-height{
+    height:100vh;
+}
+.align-self{
+    align-self:center;
+}
+.width{
+    width:50%;
+}
+.decor{
+    border: none;
+}
+.d-flex{
+    display:flex;
+}
+.padding-10{
+    padding:60px;
+}
+.font-weight{
+    font-weight:bold;
+}
+.h-font-size{
+    font-size:60px;
+}
+.p-font-size{
+    font-size:25px;
+}
+.gap{
+    gap:10px;
+}
